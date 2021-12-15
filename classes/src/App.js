@@ -1,6 +1,6 @@
 import propTypes from 'prop-types';
 import ItemModel from './models/ItemModel';
-import './main.css';
+import './App.css';
 import React from 'react';
 
 class ShopItemClass extends React.Component{
